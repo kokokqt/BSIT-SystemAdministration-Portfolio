@@ -52,8 +52,7 @@ Utilities	Google Chrome, AnyDesk, 7-Zip
 Full inventory with versions, license types, and justification is in EnterpriseInfrastructurePlan.pdf (Part 3).
 
  Embedded Network Diagram
-## Git Installation
-![Git Installation](network_diagram.png)
+ ![Enterprise Network Topology](diagrams/network_diagram.png)
 
 The topology flows: Internet → ISP Modem → Router → Firewall → Core Switch, which then distributes wired connectivity to the Server, Network Printer, and NAS Storage, and both wired and wireless connectivity to the IT, HR, Finance, and Sales departments through the Wireless Access Point.
 
