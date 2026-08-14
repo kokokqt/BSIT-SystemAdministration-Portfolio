@@ -6,7 +6,7 @@ Course: ITEP 414 – System Administration and Maintenance Program: Bachelor of 
 
 Every successful IT infrastructure begins with proper planning. This project puts me in the role of a Junior System Administrator tasked with preparing the complete IT Infrastructure Plan for Vantix Technologies, a newly established software development company with 20 employees and zero existing infrastructure — no computers, no server, no network, no internet, and no security policies.
 
-The final deliverable is a professional Enterprise Infrasstructure Plan — the kind of document that could realistically be submitted to an IT Manager or Company Executive before any equipment is purchased.
+The final deliverable is a professional Enterprise Infrastructure Plan — the kind of document that could realistically be submitted to an IT Manager or Company Executive before any equipment is purchased.
 
  Learning Objectives
 Explain the roles and responsibilities of a System Administrator
@@ -52,8 +52,8 @@ Utilities	Google Chrome, AnyDesk, 7-Zip
 Full inventory with versions, license types, and justification is in EnterpriseInfrastructurePlan.pdf (Part 3).
 
  Embedded Network Diagram
-
-Show Image
+## Git Installation
+![Git Installation](network_diagram.png)
 
 The topology flows: Internet → ISP Modem → Router → Firewall → Core Switch, which then distributes wired connectivity to the Server, Network Printer, and NAS Storage, and both wired and wireless connectivity to the IT, HR, Finance, and Sales departments through the Wireless Access Point.
 
@@ -78,4 +78,3 @@ Cisco Networking Academy — https://www.netacad.com
 CompTIA Certifications — https://www.comptia.org/certifications
 Red Hat Certified System Administrator (RHCSA) — https://www.redhat.com/en/services/certification/rhcsa
 AWS Certified Solutions Architect — https://aws.amazon.com/certification/
-Ubuntu Server Documentation — https://ubuntu.com/server/docs
